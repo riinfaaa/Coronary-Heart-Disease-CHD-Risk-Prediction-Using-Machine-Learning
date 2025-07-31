@@ -88,8 +88,6 @@ Matplotlib	Graphing & visualization
 
 Scikit-learn	Machine learning modeling
 
-Google Colab	Zero setup, GPU/CPU runtime
-
 This repository contains a complete end-to-end workflow for predicting the likelihood of coronary heart disease (CHD) using clinical and demographic data, built with Colab notebooks.
 
 ---
